@@ -41,6 +41,15 @@ This repository contains my journey of learning **Java Backend Development with 
 - `@PreDestroy`
 - `destroyMethod`
 
+### 7. Spring Boot Configuration & Auto-Configuration
+- Understood @SpringBootApplication and its three main annotations:
+- @SpringBootConfiguration
+- @EnableAutoConfiguration
+- @ComponentScan
+- Learned how SpringApplication.run() starts the application and creates the ApplicationContext.
+- Understood how Spring Boot automatically configures required components based on project dependencies.
+- Learned about spring-boot-starter-parent and Maven dependency management.
+
 ## 🛠️ Tech Stack
 
 - Java
