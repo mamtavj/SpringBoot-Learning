@@ -1,0 +1,10 @@
+# IntelliJ IDEA settings
+.idea/
+
+# Maven build output
+target/
+
+# Local practice files
+/extrafiles/
+/workspace/
+/demo.zip
